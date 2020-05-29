@@ -1,0 +1,24 @@
+{
+  "name": "garnerp-test-secdep-localorg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garnerp/garnerp-test-secdep-localorg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garnerp/garnerp-test-secdep-localorg/issues"
+  },
+  "homepage": "https://github.com/garnerp/garnerp-test-secdep-localorg#readme",
+  "dependencies": {
+    "http-proxy": "^1.18.0",
+    "http-proxy-agent": "^2.0.0"
+  }
+}
