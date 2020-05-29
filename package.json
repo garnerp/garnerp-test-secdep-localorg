@@ -19,6 +19,6 @@
   "homepage": "https://github.com/garnerp/garnerp-test-secdep-localorg#readme",
   "dependencies": {
     "http-proxy": "^1.18.0",
-    "http-proxy-agent": "^2.0.0"
+    "http-proxy-agent": "^2.1.0"
   }
 }
